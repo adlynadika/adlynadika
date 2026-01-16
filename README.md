@@ -12,15 +12,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skill Stack
+
+**Data & Analytics**  
 ![Excel](https://img.shields.io/badge/Excel-Intermediate-green?logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/SQL-Basic-blue?logo=postgresql)
 ![R](https://img.shields.io/badge/R-Basic-lightblue?logo=r)
 ![Power BI](https://img.shields.io/badge/PowerBI-Intermediate-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-orange?logo=tableau)
+
+**Design & Creativity**  
 ![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-blue?logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-red?logo=adobe-illustrator)
 ![Canva](https://img.shields.io/badge/Canva-Expert-purple?logo=canva)
+
+**Productivity & Tools**  
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Intermediate-orange?logo=microsoft-powerpoint)
+![Word](https://img.shields.io/badge/Word-Expert-blue?logo=microsoft-word)
+
 
 ---
 
