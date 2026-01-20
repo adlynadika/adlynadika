@@ -3,6 +3,14 @@
 
 ---
 
+## 📢 Internship Availability
+- 💼**Actively seeking a 6‑month internship placement**
+- 📅 **2 March 2026 – 2 September 2026**
+- 📍 Preferred Area: Kuala Lumpur
+- 🔎 Focus: **Data Analytics / Business Intelligence / Graphic Design**
+
+---
+
 ## 🚀 About Me
 - 🎓 Final-year student at **IIUM**, specialising in Business Intelligence & Information Systems  
 - 📊 Strong analytical skills with hands-on experience in **SQL, Power BI, Tableau, R, Excel**  
@@ -73,6 +81,9 @@ Analysed 20+ VoC complaints using Pareto, Ishikawa, SWOT, and 5‑Why.
 ---
 
 ## 🌐 Connect With Me
-📫 [Email](mailto:adlynadika@gmail.com) | [LinkedIn](https://linkedin.com/in/adlynadika) | 📍 Preferred Area: KL  
+[![Email](https://img.shields.io/badge/Email-adlynadika%40gmail.com-red?logo=gmail)](mailto:adlynadika@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdlynSofea-blue?logo=linkedin)](https://linkedin.com/in/adlynadika)
+[![Phone](https://img.shields.io/badge/Phone-%2B60--1234--567890-green?logo=whatsapp)](tel:+60194866884)
+ 
 
 ![Profile views](https://komarev.com/ghpvc/?username=adlynadika&color=blue)
