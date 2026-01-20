@@ -81,8 +81,8 @@ Analysed 20+ VoC complaints using Pareto, Ishikawa, SWOT, and 5‑Why.
 ---
 
 ## 📞 Contact Me
-- 📱 Phone: +60-1234-567890  
-- 📫 Email: [adlynadika@gmail.com](mailto:adlynadika@gmail.com)  
+- 📱 Phone: +6019-4866884  
+- 📫 Email: [adlynadika@gmail.com](adlynadika@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/adlynadika](https://linkedin.com/in/adlynadika)
 
 ---
