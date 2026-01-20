@@ -65,12 +65,6 @@ Analysed 20+ VoC complaints using Pareto, Ishikawa, SWOT, and 5‑Why.
 
 ---
 
-## 📈 GitHub Stats
-![Adlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlynadika&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adlynadika&layout=compact&theme=radical)
-
----
-
 ## 🏆 Achievements
 - Dean’s List (7 consecutive semesters, Top 10%)  
 - CompTIA Data+ Certified  
