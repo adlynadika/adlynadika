@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 [My Portfolio](https://adlynadika.github.io/#/home)
+## 🌐 My Portfolio [click here](https://adlynadika.github.io/#/home)
 
 ---
 
