@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 My Portfolio: [adlynsofea.com](https://your-website-link.com)
+## 🌐 [My Portfolio](https://adlynadika.github.io/#/home)
 
 ---
 
