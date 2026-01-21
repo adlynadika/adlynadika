@@ -47,36 +47,6 @@
 
 ---
 
-## 📊 Featured Projects
-
-### 🐝 [BeeTrue Game](https://github.com/adlynadika/beetrue-game)
-A 2D career exploration game integrating RIASEC personality assessment.  
-🏆 Won **Best Social Impact Award (INNOVATEX 2026)** and attracted collaboration invitations.  
-**Tech stack:** Unity, C#, UI/UX Design
-
----
-
-### 📊 [Xerox Malaysia Sales Dashboard](https://public.tableau.com/profile/adlynadika/viz/XeroxSalesDashboard)
-Dynamic Tableau dashboard with interactive filters and light/dark mode.  
-📈 Published on Tableau Public to present clear sales insights.  
-**Tech stack:** Tableau, Data Cleaning, Visualization
-
----
-
-### 🏥 [Healthcare Data Warehouse](https://github.com/adlynadika/healthcare-data-warehouse)
-Designed a star schema data warehouse from healthcare datasets.  
-⚙️ Built ETL pipelines and performed data profiling for faster BI reporting.  
-**Tech stack:** SQL, Dimensional Modeling, ETL
-
----
-
-### ✈️ [KLIA2 Baggage Handling Analysis](https://github.com/adlynadika/klia2-bhs-analysis)
-Analysed 20+ VoC complaints using Pareto, Ishikawa, SWOT, and 5‑Why.  
-📊 Created a 23‑month Gantt Chart supporting project planning and tracking.  
-**Tech stack:** Excel, PowerPoint, Root Cause Analysis
-
----
-
 ## 🏆 Achievements
 - Dean’s List (7 consecutive semesters, Top 10%)  
 - CompTIA Data+ Certified  
