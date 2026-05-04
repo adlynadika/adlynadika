@@ -3,14 +3,6 @@
 
 ---
 
-## 📢 Internship Availability
-- 💼**Actively seeking a 6‑month internship placement**
-- 📅 **2 March 2026 – 2 September 2026**
-- 📍 Preferred Area: Kuala Lumpur
-- 🔎 Focus: **Data Analytics / Business Intelligence / Graphic Design**
-
----
-
 ## 🚀 About Me
 - 🎓 Final-year student at **IIUM**, specialising in Business Intelligence & Information Systems  
 - 📊 Strong analytical skills with hands-on experience in **SQL, Power BI, Tableau, R, Excel**  
