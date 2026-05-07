@@ -47,7 +47,6 @@
 ---
 
 ## 📞 Contact Me
-- 📱 Phone: +6019-4866884  
 - 📫 Email: [adlynadika@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=adlynadika@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/adlynadika](https://linkedin.com/in/adlynadika)
 
