@@ -1,4 +1,4 @@
-# Hi, I'm Adlyn Sofea test 👋  
+# Hi, I'm Adlyn Sofea 👋  
 🎓 Business Intelligence & Information Systems Student | 📊 Aspiring Data Analyst | 🎨 Creative Designer  
 
 ---
